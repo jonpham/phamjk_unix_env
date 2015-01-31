@@ -1,0 +1,8 @@
+#General / Generic Aliases
+alias ll='ls -xl --color=auto'
+alias l.='ls --color-auto -ald \.*'
+alias la='ls -lah --color=auto'
+alias ls='ls -F --color=auto'
+alias lt='ls -ltra --color=auto'
+alias cls=clear
+ 
